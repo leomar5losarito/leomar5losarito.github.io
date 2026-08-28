@@ -13,7 +13,8 @@ Right now, open communities are building amazing software together, and there ar
 and not [opensource@microsoft.com](mailto:opensource@microsoft.com) to ask questions specific to an individual repository.
 
 Visit [opensource.microsoft.com](https://opensource.microsoft.com) to learn more!
--->
+
 ----
 
 This projects adopt the [Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/).
+-->
