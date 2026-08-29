@@ -1,21 +1,22 @@
 # leomar5losarito.github.io
-### This is a test only
+### Welcome to
 ![Open Source at](Leomar-Analytics.png) 
 
 ## Imagination, life is your creation
 
-This repository still a draft which contains actionable insights and visual analytics to help users analyze performance for better decision-making
+# Key Features
 
-# Key Features 
 📊 Data Visualization 
 ✅ **Data Analysis Tracker**
 📌
 📈
 🛠️
 
-Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved. 
+# This repository still a draft which contains actionable insights and visual analytics to help users analyze performance for better decision-making
 
  <!--
+Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved. 
+
 ### 📌 Dashboard Previews  
 📈 **Overall Dashboard:** [View Here](https://github.com/Harshavladimir/Superstore_Dataset_Dashboard-Using-Tableau/blob/main/Overall%20Dashboard.png)  
 🌍 **Detailed Dashboard:** [View Here](https://github.com/Harshavladimir/Superstore_Dataset_Dashboard-Using-Tableau/blob/main/Table%20data.png)  
