@@ -1,4 +1,4 @@
-# leomar5losarito.github.io
+# leomar-losarito.github.io
 ### Welcome to
 ![Open Source at](Leomar-Analytics.png) 
 
@@ -14,6 +14,8 @@
 
 # This repository still a draft which supposedly contains actionable insights and visual analytics to help users analyze performance for better decision-making
 
+You’re almost there🎉
+Great news, you're almost ready to explore. I've made the process easy for you.
  <!--
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved. 
 
